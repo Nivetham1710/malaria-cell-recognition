@@ -145,16 +145,16 @@ print[predictions]
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![output](./dl1.jpeg)
+![image](https://user-images.githubusercontent.com/94155183/194228980-185bf6c0-f0b4-402b-a54c-0266587f298f.png)
 
 ### Classification Report
-
-![output](./dl2.jpeg)
+![image](https://user-images.githubusercontent.com/94155183/194228954-803c1747-9ef6-41a4-8339-b50aa4e4afb3.png)
 ### Confusion Matrix
 
-![output](./dl4.png)
+![image](https://user-images.githubusercontent.com/94155183/194228920-5ca04111-563b-4cf0-b235-744a89aab913.png)
 ### New Sample Data Prediction
-![output](./dl3.png)
+![image](https://user-images.githubusercontent.com/94155183/194228869-5e1153e6-203b-4fbf-9d10-6687cdca00a7.png)
+
 
 ## RESULT
 Successfully developed a convolutional deep neural network for Malaria Infected Cell Recognition.
