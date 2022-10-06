@@ -30,8 +30,8 @@ Evaluate the model with the testing data
 Plot the performance plot
 
 ## PROGRAM
-DEVELOPED BY : MEIYARASI.V
-REGISTER NUMBER : 212221230058
+DEVELOPED BY : Nivetha.M
+REGISTER NUMBER : 212221240034
 ~~~
 import os
 import pandas as pd
